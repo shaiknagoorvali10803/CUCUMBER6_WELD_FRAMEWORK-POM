@@ -1,6 +1,7 @@
 package StepDefinitions;
 
 import Utils.ScenarioContext;
+import Utils.SeleniumUtil;
 import Utils.WebDriverProvider;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -29,7 +30,8 @@ public class VisaSteps {
     @Given("I am on VISA registration form")
     public void launchSite() {
        driverProvider.getInstance().navigate().to("https://vins-udemy.s3.amazonaws.com/sb/visa/udemy-visa.html");
-       scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenarioContext);
+       //scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
         //Allure.addAttachment("Screenshot", new ByteArrayInputStream(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES)));
          }
 
@@ -56,7 +58,8 @@ public class VisaSteps {
     @And("I enter the comment {string}")
     public void enterComment(String comment) {
         this.registrationPage.setComments(comment);
-        scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenarioContext);
+        //scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
     }
 
     @And("I submit the form")
@@ -64,7 +67,8 @@ public class VisaSteps {
         //Allure.addAttachment("Screenshot", new ByteArrayInputStream(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES)));
         this.registrationPage.submit();
         System.out.println("hashcode scenario Context "+scenarioContext.getScenario().hashCode());
-        scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenarioContext);
+        //scenarioContext.getScenario().attach(((TakesScreenshot)  driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
         System.out.println("hashcode driver "+ driverProvider.getInstance().hashCode());
         }
 

@@ -1,6 +1,7 @@
 package StepDefinitions;
 
 import Utils.ScenarioContext;
+import Utils.SeleniumUtil;
 import Utils.WebDriverProvider;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -43,14 +44,16 @@ public class LoginPageDefinitions {
     public void verifyLogin() throws IOException, InterruptedException {
         System.out.println("HomePage Text is : " + objHomePage.getHomePageText());
         Assert.assertTrue(objHomePage.getHomePageText().contains("Dashboard"));
-        scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenario);
+        //scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
 
     }
 
     @Then("User should be able to see error message {string}")
     public void verifyErrorMessage(String expectedErrorMessage) throws IOException {
         Assert.assertEquals(objLogin.getErrorMessage(), expectedErrorMessage);
-        scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenario);
+       // scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
 
     }
 

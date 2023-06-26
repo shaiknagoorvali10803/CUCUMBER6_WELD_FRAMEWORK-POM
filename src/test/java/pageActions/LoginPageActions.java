@@ -65,7 +65,8 @@ public class LoginPageActions {
     public void login(String strUserName, String strPassword) {
         this.setUserName(strUserName);
         this.setPassword(strPassword);
-        scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenario);
+        //scenario.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
         this.clickLogin();
 
     }

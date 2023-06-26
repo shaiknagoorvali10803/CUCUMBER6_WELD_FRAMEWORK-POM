@@ -38,16 +38,19 @@ public class GoogleSteps {
     public void clickSearch() throws IOException, InterruptedException {
         Uninterruptibles.sleepUninterruptibly(Duration.ofSeconds(4));
         Assert.assertTrue(this.googlePage.isAt());
-        scenarioContext.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenarioContext);
+        //scenarioContext.getScenario().attach(((TakesScreenshot) driverProvider.getInstance()).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
         //Allure.addAttachment("Screenshot", new ByteArrayInputStream(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES)));
         }
     @Then("I should see at least {int} results")
     public void verifyResults(int count) throws InterruptedException, IOException {
         Assert.assertTrue(this.googlePage.getCount() >= count);
+        SeleniumUtil.scrollToView(driverProvider.getInstance(), By.xpath("//div[contains(text(),'Images')]"));
         SeleniumUtil.clickElementbyXPath(driverProvider.getInstance(),"//div[contains(text(),'Images')]");
         Thread.sleep(3000);
         SeleniumUtil.scrollToView(driverProvider.getInstance(), By.xpath("//a[normalize-space()='Videos']"));
         SeleniumUtil.clickUsingJavaScript(driverProvider.getInstance(), By.xpath("//a[normalize-space()='Videos']"));
+        SeleniumUtil.insertScreenshot(driverProvider.getInstance(), scenarioContext);
         Thread.sleep(3000);
     }
  }

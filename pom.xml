@@ -203,7 +203,7 @@
                 <version>2.19.1</version>
                 <configuration>
                     <parallel>methods</parallel>
-                    <threadCount>4</threadCount>
+                    <threadCount>5</threadCount>
 <!--                    //<useUnlimitedThreads>true</useUnlimitedThreads>-->
                 </configuration>
             </plugin>

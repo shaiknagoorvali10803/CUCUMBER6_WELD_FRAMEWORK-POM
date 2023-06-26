@@ -1953,9 +1953,9 @@ public class SeleniumUtil {
      * -------------------------------utlitity Methods scrolling to particular element --------------------------
      */
     public static void scrollToView(WebDriver driver, By locator) {
-        WebElement element = driver.findElement(locator);
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(120));
         wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+        WebElement element = driver.findElement(locator);
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
     }
 
@@ -2005,7 +2005,8 @@ public class SeleniumUtil {
         highlightElement(driver, driver.findElement(locator));
     }
 
-    public static void insertScreenshot(final  Scenario scenario){
+    public static void insertScreenshot(final WebDriver driver,final  ScenarioContext scenario){
+        scenario.getScenario().attach(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES), "image/png", "screenshot");
 
     }
 
