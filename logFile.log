@@ -1,0 +1,1131 @@
+2023-06-25 22:49:13 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:49:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (53846010-dcdc-462a-9669-70b3ac6e81b9)] -> name: username]Done
+2023-06-25 22:49:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (53846010-dcdc-462a-9669-70b3ac6e81b9)] -> name: password]Done
+2023-06-25 22:49:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (53846010-dcdc-462a-9669-70b3ac6e81b9)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:49:31 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (53846010-dcdc-462a-9669-70b3ac6e81b9)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:49:31 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (53846010-dcdc-462a-9669-70b3ac6e81b9)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:49:32 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:49:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> name: username]Done
+2023-06-25 22:49:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> name: password]Done
+2023-06-25 22:49:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:49:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:49:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:49:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:49:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (32c63788-ea00-4c2b-96f7-60e6da50f232)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 22:49:48 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:49:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> name: username]Done
+2023-06-25 22:49:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> name: password]Done
+2023-06-25 22:49:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:50:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:50:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:50:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:50:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[FirefoxDriver: firefox on WINDOWS (c81552d1-1343-4440-ad9f-af07296599fc)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 22:50:30 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:50:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ab135cceba9b2a56b9e4c29a13457b0b)] -> name: username]Done
+2023-06-25 22:50:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ab135cceba9b2a56b9e4c29a13457b0b)] -> name: password]Done
+2023-06-25 22:50:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ab135cceba9b2a56b9e4c29a13457b0b)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:50:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ab135cceba9b2a56b9e4c29a13457b0b)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:50:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ab135cceba9b2a56b9e4c29a13457b0b)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:50:47 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:50:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> name: username]Done
+2023-06-25 22:50:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> name: password]Done
+2023-06-25 22:50:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:51:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:51:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:51:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:51:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c0e540f12056bdaa3a3b12139403ac12)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 22:51:03 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:15 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> name: username]Done
+2023-06-25 22:51:15 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> name: password]Done
+2023-06-25 22:51:15 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:51:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:51:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:51:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:51:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (8f68fed2a484730812936178b55bb048)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 22:51:35 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:38 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:40 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:43 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:46 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:51:48 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:52:47 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:53:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (018a137cd08bac364b09d79cfad69a6a)] -> name: username]Done
+2023-06-25 22:53:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (018a137cd08bac364b09d79cfad69a6a)] -> name: password]Done
+2023-06-25 22:53:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (018a137cd08bac364b09d79cfad69a6a)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:53:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (018a137cd08bac364b09d79cfad69a6a)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:53:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (018a137cd08bac364b09d79cfad69a6a)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-25 22:53:04 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:53:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> name: username]Done
+2023-06-25 22:53:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> name: password]Done
+2023-06-25 22:53:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:53:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:53:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:53:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:53:21 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (8c7cc5ef733c97d27f687154a87273f9)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 22:53:22 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 22:53:35 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> name: username]Done
+2023-06-25 22:53:35 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> name: password]Done
+2023-06-25 22:53:35 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-25 22:53:37 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-25 22:53:37 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:53:37 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-25 22:53:38 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (6cffe0e673e98655c93dd90dec440587)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-25 23:51:01 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 23:51:06 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 23:51:10 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 23:56:29 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 23:56:34 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-25 23:56:37 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:02:56 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:03:12 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (75e4ae3c021b7442bffeb14863f3b285)] -> name: username]Done
+2023-06-26 00:03:12 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (75e4ae3c021b7442bffeb14863f3b285)] -> name: password]Done
+2023-06-26 00:03:12 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (75e4ae3c021b7442bffeb14863f3b285)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:03:14 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (75e4ae3c021b7442bffeb14863f3b285)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:03:14 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (75e4ae3c021b7442bffeb14863f3b285)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:03:15 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:03:28 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> name: username]Done
+2023-06-26 00:03:28 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> name: password]Done
+2023-06-26 00:03:28 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:03:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:03:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:03:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:03:31 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (57ae1a754bffe55bb461e79a2547da76)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:03:32 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:03:45 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> name: username]Done
+2023-06-26 00:03:45 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> name: password]Done
+2023-06-26 00:03:45 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:03:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:03:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:03:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:03:49 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (b79213f9db34be39ee649aa6f4fd953c)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:06:34 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:07:14 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:07:28 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (c75df9c72fb06a39feafb447f3866487)] -> name: username]Done
+2023-06-26 00:07:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (c75df9c72fb06a39feafb447f3866487)] -> name: password]Done
+2023-06-26 00:07:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (c75df9c72fb06a39feafb447f3866487)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:07:31 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (c75df9c72fb06a39feafb447f3866487)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:07:31 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (c75df9c72fb06a39feafb447f3866487)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:07:31 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:07:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> name: username]Done
+2023-06-26 00:07:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> name: password]Done
+2023-06-26 00:07:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:07:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:07:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:07:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:07:48 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a6f9fc2407cb18bcf0c84e7d4eb461b3)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:07:49 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:08:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> name: username]Done
+2023-06-26 00:08:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> name: password]Done
+2023-06-26 00:08:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:08:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:08:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:08:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:08:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (73347ae50fccdf61226d38fe653df480)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:09:38 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:10:21 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:11:09 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:11:23 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (994cc919c6f0e236f886c22eea1662b3)] -> name: username]Done
+2023-06-26 00:11:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (994cc919c6f0e236f886c22eea1662b3)] -> name: password]Done
+2023-06-26 00:11:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (994cc919c6f0e236f886c22eea1662b3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:11:26 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (994cc919c6f0e236f886c22eea1662b3)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:11:26 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (994cc919c6f0e236f886c22eea1662b3)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:11:27 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:11:39 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> name: username]Done
+2023-06-26 00:11:40 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> name: password]Done
+2023-06-26 00:11:40 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:11:42 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:11:42 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:11:42 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:11:43 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (45228ec89d6ef9573aec65be0a85f753)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:11:44 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:11:57 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> name: username]Done
+2023-06-26 00:11:57 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> name: password]Done
+2023-06-26 00:11:57 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:11:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:11:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:11:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:12:00 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (ee2b07ffd5335f173cbde10fe11c3568)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:13:05 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:13:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (03ada18d4ff9a296bb2c75941fabe445)] -> name: username]Done
+2023-06-26 00:13:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (03ada18d4ff9a296bb2c75941fabe445)] -> name: password]Done
+2023-06-26 00:13:20 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (03ada18d4ff9a296bb2c75941fabe445)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:13:22 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (03ada18d4ff9a296bb2c75941fabe445)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:13:22 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (03ada18d4ff9a296bb2c75941fabe445)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:13:23 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:13:36 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> name: username]Done
+2023-06-26 00:13:36 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> name: password]Done
+2023-06-26 00:13:36 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:13:38 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:13:39 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:13:39 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:13:40 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (987775f6d216fe6dee07780226845e2c)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:13:40 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:13:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> name: username]Done
+2023-06-26 00:13:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> name: password]Done
+2023-06-26 00:13:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:13:55 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:13:55 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:13:55 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:13:56 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[EdgeDriver: msedge on WINDOWS (a01e999b033ece52cf22f19db0927292)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:15:31 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:15:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (eb48ee5a92c1f3be10653c90d8373dbf)] -> name: username]Done
+2023-06-26 00:15:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (eb48ee5a92c1f3be10653c90d8373dbf)] -> name: password]Done
+2023-06-26 00:15:44 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (eb48ee5a92c1f3be10653c90d8373dbf)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:15:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (eb48ee5a92c1f3be10653c90d8373dbf)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:15:46 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (eb48ee5a92c1f3be10653c90d8373dbf)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 00:15:47 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:15:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> name: username]Done
+2023-06-26 00:15:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> name: password]Done
+2023-06-26 00:15:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:16:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:16:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:16:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:16:02 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1ba1a6f1591faf9dc07dc02b171c4566)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 00:16:02 | INFO  | [main] U.WebDriverProvider:102 - System property browser = null
+2023-06-26 00:16:15 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> name: username]Done
+2023-06-26 00:16:15 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> name: password]Done
+2023-06-26 00:16:16 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 00:16:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 00:16:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:16:18 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 00:16:19 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0cca87217b9c375629baf8225e77e0ec)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 13:42:42 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:43:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (b4d08de28f28d871ae6a7caae12cd7b6)] -> name: username]Done
+2023-06-26 13:43:06 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (b4d08de28f28d871ae6a7caae12cd7b6)] -> name: password]Done
+2023-06-26 13:43:06 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (b4d08de28f28d871ae6a7caae12cd7b6)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:43:10 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (b4d08de28f28d871ae6a7caae12cd7b6)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 13:43:10 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (b4d08de28f28d871ae6a7caae12cd7b6)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 13:43:11 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:43:33 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> name: username]Done
+2023-06-26 13:43:33 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> name: password]Done
+2023-06-26 13:43:34 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:43:37 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 13:43:38 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:43:38 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:43:40 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (d82ffa4160822f741252df095ade2246)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 13:43:40 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:44:00 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> name: username]Done
+2023-06-26 13:44:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> name: password]Done
+2023-06-26 13:44:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:44:04 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 13:44:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:44:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:44:07 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a3003ef2adaf1fe9add6be488c104085)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 13:46:36 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:46:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (57bf74d9a0beb7711fac006c8357e93a)] -> name: username]Done
+2023-06-26 13:46:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (57bf74d9a0beb7711fac006c8357e93a)] -> name: password]Done
+2023-06-26 13:47:00 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (57bf74d9a0beb7711fac006c8357e93a)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:47:03 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (57bf74d9a0beb7711fac006c8357e93a)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 13:47:03 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (57bf74d9a0beb7711fac006c8357e93a)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 13:47:05 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:47:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> name: username]Done
+2023-06-26 13:47:25 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> name: password]Done
+2023-06-26 13:47:26 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:47:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 13:47:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:47:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:47:32 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a67bfdfcef06fa1bfa4eb0915a380bc3)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 13:47:32 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 13:47:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> name: username]Done
+2023-06-26 13:47:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> name: password]Done
+2023-06-26 13:47:54 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 13:47:57 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 13:47:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:47:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 13:48:00 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (969bc4789fd7fb272bd80dc35d3c0fb3)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 13:50:30 | ERROR | [main] o.t.TestNG:154 - No test suite found. Nothing to run
+2023-06-26 13:50:30 | ERROR | [main] o.t.r.SuiteHTMLReporter:165 - C:\Users\nagoorvali.shaik\Downloads\CUCUMBER4_WELD_UI_FRAMEWORK\target\surefire-reports\testng.css (The system cannot find the path specified)
+java.io.FileNotFoundException: C:\Users\nagoorvali.shaik\Downloads\CUCUMBER4_WELD_UI_FRAMEWORK\target\surefire-reports\testng.css (The system cannot find the path specified)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at org.testng.internal.Utils.writeResourceToFile(Utils.java:279)
+	at org.testng.reporters.HtmlHelper.generateStylesheet(HtmlHelper.java:31)
+	at org.testng.reporters.SuiteHTMLReporter.generateReport(SuiteHTMLReporter.java:53)
+	at org.testng.TestNG.generateReports(TestNG.java:1127)
+	at org.testng.TestNG.run(TestNG.java:1065)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+2023-06-26 14:24:02 | ERROR | [main] o.t.TestNG:154 - No test suite found. Nothing to run
+2023-06-26 14:24:02 | ERROR | [main] o.t.r.SuiteHTMLReporter:165 - C:\Users\nagoorvali.shaik\Downloads\CUCUMBER4_WELD_UI_FRAMEWORK\target\surefire-reports\testng.css (The system cannot find the path specified)
+java.io.FileNotFoundException: C:\Users\nagoorvali.shaik\Downloads\CUCUMBER4_WELD_UI_FRAMEWORK\target\surefire-reports\testng.css (The system cannot find the path specified)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+	at org.testng.internal.Utils.writeResourceToFile(Utils.java:279)
+	at org.testng.reporters.HtmlHelper.generateStylesheet(HtmlHelper.java:31)
+	at org.testng.reporters.SuiteHTMLReporter.generateReport(SuiteHTMLReporter.java:53)
+	at org.testng.TestNG.generateReports(TestNG.java:1127)
+	at org.testng.TestNG.run(TestNG.java:1065)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+2023-06-26 14:37:47 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:37:47 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:38:12 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5c539bb1e7841d7829b2b138492f0c44)] -> name: username]Done
+2023-06-26 14:38:12 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c1f3fb77aefef10574e3da1b824b57e)] -> name: username]Done
+2023-06-26 14:38:13 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5c539bb1e7841d7829b2b138492f0c44)] -> name: password]Done
+2023-06-26 14:38:13 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c1f3fb77aefef10574e3da1b824b57e)] -> name: password]Done
+2023-06-26 14:38:14 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5c539bb1e7841d7829b2b138492f0c44)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:38:14 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c1f3fb77aefef10574e3da1b824b57e)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:38:17 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c1f3fb77aefef10574e3da1b824b57e)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 14:38:17 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5c539bb1e7841d7829b2b138492f0c44)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 14:38:18 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c1f3fb77aefef10574e3da1b824b57e)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 14:38:18 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5c539bb1e7841d7829b2b138492f0c44)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 14:38:19 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:38:20 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:38:41 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> name: username]Done
+2023-06-26 14:38:41 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> name: password]Done
+2023-06-26 14:38:42 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:38:42 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> name: username]Done
+2023-06-26 14:38:43 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> name: password]Done
+2023-06-26 14:38:44 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:38:46 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 14:38:47 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:38:47 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:38:48 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 14:38:48 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:38:49 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:38:49 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (73bdb1bd5d4d24283c2e8064df31cf9b)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 14:38:50 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:38:51 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (074e1ac71a9314a98fd93d23ac486d17)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 14:38:52 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 14:39:14 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> name: username]Done
+2023-06-26 14:39:15 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> name: password]Done
+2023-06-26 14:39:16 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:39:16 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> name: username]Done
+2023-06-26 14:39:17 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> name: password]Done
+2023-06-26 14:39:18 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 14:39:20 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 14:39:21 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 14:39:22 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:39:22 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:39:22 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:39:23 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 14:39:24 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (5eadea3074b60fe5deae0f33e7de8f18)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 14:39:25 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fde30aa5d2a5da9f0529b1ec6491af05)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 17:08:35 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:08:42 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:08:46 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:10:31 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:10:38 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:10:41 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:11:30 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:11:38 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:11:41 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:12:48 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:12:56 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:12:59 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:14:02 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:14:22 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:14:38 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:15:42 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:16:33 | INFO  | [main] U.SeleniumUtil:1927 - Exception isElementVisible::By.xpath: //a[normalize-space()='Images'] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //a[normalize-space()='Images'] (tried for 30 second(s) with 3000 milliseconds interval)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: unknown
+2023-06-26 17:17:04 | INFO  | [main] U.SeleniumUtil:1927 - Exception isElementVisible::By.xpath: //a[normalize-space()='Images'] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //a[normalize-space()='Images'] (tried for 30 second(s) with 3000 milliseconds interval)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: unknown
+2023-06-26 17:17:10 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:18:07 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:18:59 | INFO  | [main] U.SeleniumUtil:1927 - Exception isElementVisible::By.xpath: //*[normalize-space()='Images'] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //*[normalize-space()='Images'] (tried for 30 second(s) with 3000 milliseconds interval)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: unknown
+2023-06-26 17:19:31 | INFO  | [main] U.SeleniumUtil:1927 - Exception isElementVisible::By.xpath: //*[normalize-space()='Images'] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //*[normalize-space()='Images'] (tried for 30 second(s) with 3000 milliseconds interval)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: unknown
+2023-06-26 17:19:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:19:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:20:44 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:21:10 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:21:32 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:30:57 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:31:23 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:31:45 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:32:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:32:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:33:18 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:33:40 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (339420d64cf112680a7524c518f52b76)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:33:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (339420d64cf112680a7524c518f52b76)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:33:49 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:34:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a115c5d52f60902bd7a3288fd7bf073b)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:34:12 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a115c5d52f60902bd7a3288fd7bf073b)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:34:14 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:34:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (86e4b625d6dc911f64f5c8d1e3b61d54)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:34:38 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (86e4b625d6dc911f64f5c8d1e3b61d54)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:35:50 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:36:09 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (543c99b6ecd005becac240900a32a8ee)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:36:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (543c99b6ecd005becac240900a32a8ee)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:36:20 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:36:35 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7a34325478b685245d0bb43971376014)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:36:41 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7a34325478b685245d0bb43971376014)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:36:44 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:36:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c50f91247fcc704cd74c3d6827d1142d)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:37:08 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c50f91247fcc704cd74c3d6827d1142d)] -> xpath: //a[normalize-space()='Videos']]Done
+2023-06-26 17:38:18 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:38:41 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (c3b8e80b8375035bb98280cf35069a46)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:38:48 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:38:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:38:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:39:55 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:40:11 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (23b455a88350c074a75c278bd0dd1662)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:40:17 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:40:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:45 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:40:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:23 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:41:39 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (ea5fd74aa188168bdf46e44c85296fa6)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:41:47 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:41:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:51 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:52 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:53 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:54 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:55 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:57 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:58 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:41:59 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:01 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:02 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:03 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:05 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:06 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:07 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:08 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:09 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:10 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:11 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:12 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:13 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:14 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:15 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:16 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:19 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:20 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:22 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:23 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:24 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:27 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:28 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:29 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:32 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:33 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:34 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:35 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:36 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:39 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:40 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:41 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:42 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:43 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:44 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:46 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:47 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:48 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:49 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:42:50 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 17:44:16 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:44:35 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (cd454877b5b4bd0cca624fd30a000f1a)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:44:42 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:44:49 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:45:05 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (00b8aa20a907f9e035c83633d0c96d85)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:45:13 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:45:18 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:45:33 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2c0619fbe3f34ee217f873e1b7a5d3d8)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:45:41 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:48:17 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:48:37 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (fd7bcff32164a6aa1718ab04197a36fe)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:48:44 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:48:50 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:49:06 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (63c48141d2040a14e22d9f5b4c76eae8)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:49:13 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:49:18 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:49:35 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (9afaf65e67396e704093c435d6ac8d49)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:49:43 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:55:02 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:55:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a20702e3940159fa52194990146ace5f)] -> name: username]Done
+2023-06-26 17:55:25 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a20702e3940159fa52194990146ace5f)] -> name: password]Done
+2023-06-26 17:55:25 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a20702e3940159fa52194990146ace5f)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:55:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a20702e3940159fa52194990146ace5f)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 17:55:30 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a20702e3940159fa52194990146ace5f)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 17:55:31 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:55:52 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> name: username]Done
+2023-06-26 17:55:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> name: password]Done
+2023-06-26 17:55:54 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:55:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 17:55:58 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:55:59 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:56:01 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (712e7181bbaad08a86aae5973dff30c8)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 17:56:02 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:56:21 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> name: username]Done
+2023-06-26 17:56:21 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> name: password]Done
+2023-06-26 17:56:22 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:56:26 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 17:56:27 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:56:27 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:56:29 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4282104dcc07dd9ec3c6acb95e4fb826)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 17:56:29 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:56:49 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4cd2ae813d725b7b129d625a0e68c463)] -> name: username]Done
+2023-06-26 17:56:50 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4cd2ae813d725b7b129d625a0e68c463)] -> name: password]Done
+2023-06-26 17:56:50 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4cd2ae813d725b7b129d625a0e68c463)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:56:54 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4cd2ae813d725b7b129d625a0e68c463)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 17:56:55 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4cd2ae813d725b7b129d625a0e68c463)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 17:56:56 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:57:16 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> name: username]Done
+2023-06-26 17:57:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> name: password]Done
+2023-06-26 17:57:17 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:57:21 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 17:57:22 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:57:22 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:57:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (30c75c978912810696aa6ba6b3be6caf)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 17:57:24 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:57:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> name: username]Done
+2023-06-26 17:57:48 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> name: password]Done
+2023-06-26 17:57:48 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 17:57:52 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 17:57:52 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:57:53 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 17:57:55 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (a8ca6fabd49e7b56213bcd366d52a64e)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 17:57:56 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:58:14 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (6dff0b6bfb6f6d8e33748f730cef4bd1)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:58:22 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:58:28 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:58:47 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (4e7544a9f48fd931d6dec5c0d6838c8a)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:58:54 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:59:01 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 17:59:24 | INFO  | [main] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (2f6c482a68e496b821696171d5f814d0)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 17:59:34 | INFO  | [main] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 17:59:40 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:00:01 | INFO  | [main] p.VisaRegistrationPage:68 - Getting names : Kraig
+2023-06-26 18:00:03 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (a3f9cca1bdf43dfdece79f6b4e5a7d53)] -> id: submitBtn]
+2023-06-26 18:00:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:00:04 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:00:08 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:00:27 | INFO  | [main] p.VisaRegistrationPage:68 - Getting names : Houston
+2023-06-26 18:00:29 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (8a1c9ee97708fc8707707e00ae48de00)] -> id: submitBtn]
+2023-06-26 18:00:30 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:00:31 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:00:33 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:00:53 | INFO  | [main] p.VisaRegistrationPage:68 - Getting names : Ruthie
+2023-06-26 18:00:55 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (7b0df085f84234b810d47682c59d69ff)] -> id: submitBtn]
+2023-06-26 18:00:56 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:01:00 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:01:21 | INFO  | [main] p.VisaRegistrationPage:68 - Getting names : Shonna
+2023-06-26 18:01:24 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (55601c6ce922c402b78dbfe9e8f4a9d5)] -> id: submitBtn]
+2023-06-26 18:01:25 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:01:26 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:33:54 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:34:15 | INFO  | [main] p.VisaRegistrationPage:70 - Getting names : Kraig
+2023-06-26 18:34:17 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (7926639239961bc5cadcd887142404b4)] -> id: submitBtn]
+2023-06-26 18:34:17 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:34:18 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:34:22 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:34:35 | INFO  | [main] p.VisaRegistrationPage:70 - Getting names : Houston
+2023-06-26 18:34:37 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (d90f69940b3c6dc03befff6f6f1cad8a)] -> id: submitBtn]
+2023-06-26 18:34:37 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:34:38 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:34:42 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:34:58 | INFO  | [main] p.VisaRegistrationPage:70 - Getting names : Ruthie
+2023-06-26 18:34:59 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (6af519e8761a491cc1b21f2b1ace2c67)] -> id: submitBtn]
+2023-06-26 18:35:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:35:00 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:35:04 | INFO  | [main] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:35:19 | INFO  | [main] p.VisaRegistrationPage:70 - Getting names : Shonna
+2023-06-26 18:35:20 | INFO  | [main] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (ac96e66afe8cfd9afa4e7297f3e5e611)] -> id: submitBtn]
+2023-06-26 18:35:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:35:21 | INFO  | [main] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:36:38 | INFO  | [pool-1-thread-3] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:36:38 | INFO  | [pool-1-thread-4] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:36:39 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:36:39 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:06 | INFO  | [pool-1-thread-4] p.VisaRegistrationPage:70 - Getting names : Kraig
+2023-06-26 18:37:07 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0d9c05c40d9db49db1365253aa17765e)] -> name: username]Done
+2023-06-26 18:37:07 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (60908a65ee423520e073ba55e76b3394)] -> name: username]Done
+2023-06-26 18:37:08 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0d9c05c40d9db49db1365253aa17765e)] -> name: password]Done
+2023-06-26 18:37:08 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (60908a65ee423520e073ba55e76b3394)] -> name: password]Done
+2023-06-26 18:37:08 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (750302fd11ea02ade0f2dfc7fbbc7bd9)] -> id: submitBtn]
+2023-06-26 18:37:08 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0d9c05c40d9db49db1365253aa17765e)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:37:09 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (60908a65ee423520e073ba55e76b3394)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:37:09 | INFO  | [pool-1-thread-3] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (6e0718c0fd05b6c88643e443647e0bb1)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 18:37:09 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:37:10 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:37:13 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (60908a65ee423520e073ba55e76b3394)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 18:37:14 | INFO  | [pool-1-thread-4] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:14 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0d9c05c40d9db49db1365253aa17765e)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 18:37:14 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (60908a65ee423520e073ba55e76b3394)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 18:37:15 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (0d9c05c40d9db49db1365253aa17765e)] -> xpath: //h6[contains(@class,'oxd-topbar-header-breadcrumb-module')]]Done
+2023-06-26 18:37:16 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:17 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:17 | INFO  | [pool-1-thread-3] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 18:37:27 | INFO  | [pool-1-thread-3] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:37 | INFO  | [pool-1-thread-4] p.VisaRegistrationPage:70 - Getting names : Houston
+2023-06-26 18:37:40 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> name: username]Done
+2023-06-26 18:37:40 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (5d703e7cfe1c5206a524999d1af149f6)] -> id: submitBtn]
+2023-06-26 18:37:41 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> name: password]Done
+2023-06-26 18:37:41 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:37:42 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> name: username]Done
+2023-06-26 18:37:43 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:37:43 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> name: password]Done
+2023-06-26 18:37:44 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:37:46 | INFO  | [pool-1-thread-4] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:47 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 18:37:48 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:37:48 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 18:37:48 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:37:50 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:37:50 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (90c964931245fdd84db9892e594c4463)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 18:37:50 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:37:52 | INFO  | [pool-1-thread-2] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:37:53 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (56972d75044a959bf812c0f87c27adfe)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 18:37:53 | INFO  | [pool-1-thread-3] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1e569a210e861ec73ea5a9782e95587e)] -> xpath: //div[contains(text(),'Images')]]Done
+2023-06-26 18:37:54 | INFO  | [pool-1-thread-1] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:38:08 | INFO  | [pool-1-thread-3] U.SeleniumUtil:1698 - BeforeWaitForElement in clickUsingJavaScript::By.xpath: //a[normalize-space()='Videos']
+2023-06-26 18:38:12 | INFO  | [pool-1-thread-4] p.VisaRegistrationPage:70 - Getting names : Ruthie
+2023-06-26 18:38:16 | INFO  | [pool-1-thread-3] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:38:17 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (912a91d180f8d65239af37037ed0d5e1)] -> id: submitBtn]
+2023-06-26 18:38:17 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:38:19 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> name: username]Done
+2023-06-26 18:38:20 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> name: password]Done
+2023-06-26 18:38:21 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:38:23 | INFO  | [pool-1-thread-4] U.WebDriverProvider:100 - System property browser = null
+2023-06-26 18:38:23 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> name: username]Done
+2023-06-26 18:38:25 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> name: password]Done
+2023-06-26 18:38:26 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button]Done
+2023-06-26 18:38:29 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 18:38:31 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]Done
+2023-06-26 18:38:31 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:38:32 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:38:33 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:38:33 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> xpath: //*[@id='app']/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p]Done
+2023-06-26 18:38:37 | INFO  | [pool-1-thread-1] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (1d7b7d030493b95096bd30721aacdd92)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 18:38:37 | INFO  | [pool-1-thread-2] U.SeleniumUtil:1966 - ScrollToElement::[[ChromeDriver: chrome on WINDOWS (7c2bf537723edc8108629e19f407b6da)] -> xpath: //*[@id='app']/div[1]/div[1]/div/form/h6]Done
+2023-06-26 18:38:48 | INFO  | [pool-1-thread-4] p.VisaRegistrationPage:70 - Getting names : Shonna
+2023-06-26 18:38:50 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1714 - BeforeWaitForElement in clickUsingJavaScript::[[ChromeDriver: chrome on WINDOWS (f3ccea80299567845ba4ae5a326a7547)] -> id: submitBtn]
+2023-06-26 18:38:51 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:38:52 | INFO  | [pool-1-thread-4] U.SeleniumUtil:1575 - Waiting for Loading Screens to go away
+2023-06-26 18:39:20 | ERROR | [pool-1-thread-3] U.SeleniumUtil:383 - Some error has occurred while performing operation::{}
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[contains(text(),'Images')] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\NAGOOR~1.SHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:63833}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63833/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56b636f298c1badd4565cfbc58324db5
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at Utils.SeleniumUtil.waitUntilClickByXpath(SeleniumUtil.java:1442)
+	at Utils.SeleniumUtil.clickElementbyXPath(SeleniumUtil.java:379)
+	at StepDefinitions.GoogleSteps.verifyResults(GoogleSteps.java:47)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:104)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:393)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
